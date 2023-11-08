@@ -4,7 +4,7 @@ El sistema de vacaciones se trata de un software con la capacidad de gestionar l
 
 Para su instalacion, debe de seguir estos pasos:
 
-Descargar el comprimido rar "sistemagestionVacaciones.rar", descomprimirlo y abrirar la carpeta en Visual Studio Code. Posteriormente a esto descarga el archivo "sistemaVacacionesScript" y abrirlo con algun entorno que pueda correr SQL FIlE (De preferencia My SQL WorkBench).
+Descargar el comprimido rar "sistemagestionVacaciones.rar", descomprimirlo y abrir la carpeta en Visual Studio Code. Posteriormente a esto descargar el archivo "sistemaVacacionesScript.sql" y abrirlo con el entorno MySQL WorkBench
 
 La modificacion necesaria en la logica del proyecto solo radica en la modifiacion del siguiente fragmente de codigo en el archivo Servidor.js.
 
